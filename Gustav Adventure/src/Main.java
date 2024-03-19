@@ -8,7 +8,7 @@ public class Main {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.add(panel);
         frame.setResizable(false);
-        frame.setTitle("GUSTAV ADVENTURE 1");
+        frame.setTitle("GUSTAV ADVENTURE 3");
 
         frame.pack();
         frame.setVisible(true);
